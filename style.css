@@ -153,6 +153,37 @@ label{
     transform: scale(1.5);
 }
 
+#home{
+    color: #fff;
+    background-color: rgb(102, 37, 223);
+}
+
+#home:hover{
+    background-color: rgb(75, 23, 170);
+}
+
+#about:hover{
+    color: #fff;
+    background-color: rgb(102, 37, 223);
+}
+
+#projects:hover{
+    color: #fff;
+    background-color: rgb(102, 37, 223);
+}
+
+#linkedin:hover{
+    color: #fff;
+    background-color: rgb(102, 37, 223);
+}
+
+#contact:hover{
+    color: #fff;
+    background-color: rgb(102, 37, 223);
+}
+
+
+
 
 /* Responsive Styles */
 
